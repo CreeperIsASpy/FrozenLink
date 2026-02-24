@@ -18,9 +18,6 @@
 + requests ~= 2.32.3
 + urllib3 ~= 2.9.3
 
-> [!IMPORTANT]  
-> urllib3 版本一定不能是 3.x ！！！ 
-
 
 ### 部署
 1. 下载 app.py 文件并 cd 到文件目录
